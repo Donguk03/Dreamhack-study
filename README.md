@@ -1,5 +1,6 @@
 # Dreamhack-study
 1 Day 1 Problem 
+
 2026.9.1. Web-ssrf
   1. 문제 개요
      - 내부망(Localhost)의 랜덤 포트(1500~1800)에 숨겨진 'flag.txt'에 접근해 플래그 획득
